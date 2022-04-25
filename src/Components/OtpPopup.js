@@ -66,7 +66,7 @@ const OtpPopup = () => {
                   }
                 }}
               />
-              <input
+              {/* <input
                 type="text"
                 maxLength={1}
                 onKeyPress={(event) => {
@@ -83,7 +83,7 @@ const OtpPopup = () => {
                     event.preventDefault();
                   }
                 }}
-              />
+              /> */}
             </div>
 
     
